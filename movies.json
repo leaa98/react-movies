@@ -1,0 +1,144 @@
+[
+    {
+    
+        "titulo":" Oblivion",
+        "anho":2013,
+        "director":"Ridley Scott",
+        "actores":["Tom Cruise", "Morgan Freeman", "Olga Kurylenko", "Andrea Riseborough", "Nikolaj Coster-Waldau", "Melissa Leo"],
+        "lanzamiento":"19/04/2013",
+        "clasificacion":"PG-13",
+        "calificacion":"8.1",
+        "duracion":"2h 5min",
+        "descripcion":"Hace 60 años la Tierra quedó devastada tras la guerra con los alienígenas A día de hoy, sus únicos habitantes son Jack Harper, que hace 'drones que extraen recursos para la colonia humana en Titán, y Victoria Olsen, responsable de comunicaciones. Dos semanas antes de que decida marcharse por siempre de la Tierra, Harper rescata a una mujer de una nave espacial, provocando una batalla final para salvar a la humanidad.",
+        "img":"images/uploads/mv1.jpg"
+    },
+    {
+        "titulo":"blade runner",
+        "director":"Joseph Kosinski",
+        "actores":["Harrison Ford", "Rutger Hauer", "Rutger Hauer", "Edward James Olmos"],
+        "anho":"1982",
+        "calificacion":"8.1",  
+        "duracion":"1h 57min",
+        "clasificacion":"PG-12",
+        "lanzamiento":"25 de junio de 1982",
+        "descripcion":"Al final del siglo XX, miles de hombres y mujeres dejaron la Tierra para conquistar el espacio y escapar de las grandes ciudades, que se habían vuelto inhabitables. En las colonias nació una nueva raza de esclavos androides llamados Replicantes. Los nuevos androides son parecidos al hombre, pero superiores en fuerza y agilidad. Después de una revolución, el antiguo policía Rick Deckard debe encontrar y eliminar a los replicantes rebeldes.",
+        "img":"images/uploads/mv7.jpg"
+    },
+    {
+        "titulo":"into the wild",
+        "director":"Sean Penn",
+        "actores":["Emile Hirsch", "William Hurt", "Marcia Gay Harden ", "Catherine Keener"],
+        "anho":"2007",
+        "calificacion":"7.6",  
+        "duracion":"2h 28min",
+        "clasificacion":"PG-12",
+        "lanzamiento":"2007",
+        "descripcion":"La película narra el pulso entre un joven idealista y la implacable naturaleza de Alaska. El río Colorado, Utah, Estados Unidos. Los sueños están sobrevalorados. Así se desprende de esta película, basada en la vida de Christopher Johnson McCandless, un muchacho de Virginia",
+        "img":"images/uploads/mv2.jpg"
+
+    },
+    {
+        "titulo":"blade runner 2049",
+        "director":"Denis Villeneuve",
+        "actores":["Ryan Gosling", "Harrison Ford", "Ana de Armas", "Sylvia Hoeks","Robin Wright"],
+        "anho":"2017",
+        "calificacion":"7.6",  
+        "duracion":"2h 42min",
+        "clasificacion":"PG-12",
+        "lanzamiento":"03/10/2017",
+        "descripcion":"Han pasado 30 años desde los acontecimientos ocurridos en Blade Runner (1982). El agente K (Ryan Gosling), un blade runner caza-Replicantes del Departamento de Policía de Los Ángeles, descubre un secreto que ha estado enterrado durante mucho tiempo y que tiene el potencial de llevar a la sociedad al caos. Su investigación le conducirá a la búsqueda del legendario Rick Deckard (Harrison Ford), un antiguo blade runner en paradero desconocido, que lleva desaparecido 30 años.",
+        "img":"images/uploads/mv3.jpg"
+
+    },
+    {
+        "titulo":"Mulholland Drive",
+        "director":"David Lynch",
+        "actores":["Justin Theroux", "Naomi Watts", "Laura Elena Harring", "Catherine Keener","Ann Miller","Robert Forster"],
+        "anho":"2001",
+        "calificacion":"-",  
+        "duracion":"2h 26min",
+        "clasificacion":"-",
+        "lanzamiento":"16/05/2001",
+        "descripcion":"Mulholland Drive (estilizado como Mulholland Dr.) es un 2001 surrealista neo-noir[6][7] película de misterio Escrito y dirigido por David Lynch y protagonizando Naomi Watts, Laura Harring, Justin Theroux, Ann Miller, Mark Pellegrino y Robert Forster. Cuenta la historia de una aspirante a actriz llamada Betty Elms (Watts), recién llegada a los Angeles, que conoce y se hace amigo de un amnésico mujer (Harring) recuperándose de un accidente automovilístico. La historia sigue a varios otros viñetas y personajes, incluido un director de cine de Hollywood",
+        "img":"images/uploads/mv4.jpg"
+
+    },
+    {
+        "titulo":"skyfall",
+        "director":"Sam Mendes",
+        "actores":["Daniel Craig", "Judi Dench", "Javier Bardem", "Ralph Fiennes"],
+        "anho":"2012",
+        "calificacion":"6.6",  
+        "duracion":"2h 23min",
+        "clasificacion":"PG-13",
+        "lanzamiento":"2007",
+        "descripcion":"La lealtad de James Bond, el mejor agente de los servicios británicos, hacia su superiora M se verá puesta a prueba cuando el pasado de ella vuelve para atormentarla. El agente 007 deberá localizar y eliminar la amenaza que representa el villano Silva y, para ello, contará con la ayuda de la agente Eve.",
+        "img":"images/uploads/mv5.jpg"
+
+    },
+    {
+        "titulo":"teen beach movie",
+        "director":"Jeffrey Hornaday",
+        "actores":["Ross Lynch", "Maia Mitchell", "Grace Phipps", "Garrett Clayton"],
+        "anho":"2013",
+        "calificacion":"6",  
+        "duracion":"1h 35min",
+        "clasificacion":"G",
+        "lanzamiento":"19/07/2013",
+        "descripcion":"Los surfistas Brady y McKenzie disfrutan de sus días en la playa, hasta que una ola gigante les transporta mágicamente a la clásica película de los años sesenta 'West Side Story'. Allí, Brady y Mack cambian accidentalmente el rumbo de la historia.",
+        "img":"images/uploads/mv6.jpg"
+
+    },
+    {
+        "titulo":"teen beach movie 2",
+        "director":"Jeffrey Hornaday",
+        "actores":["Ross Lynch", "Maia Mitchell", "Grace Phipps", "Garrett Clayton"],
+        "anho":"2015",
+        "calificacion":"6",  
+        "duracion":"1h 44min",
+        "clasificacion":"G",
+        "lanzamiento":"26/06/2015",
+        "descripcion":"Cuando algunos personajes de la película musical 'West Side Story' se quedan atrapados en el mundo real, los adolescentes Brady y Mack debe encontrar una manera de regresarlos a casa.",
+        "img":"images/uploads/mv8.jpg"
+
+    },
+    {
+        "titulo":"Terminator 2: Judgment Day",
+        "director":"James Cameron",
+        "actores":["Arnold Schwarzenegger", "Linda Hamilton", "Edward Furlong", "Robert Patrick"],
+        "anho":"1991",
+        "calificacion":"7.5",  
+        "duracion":"2h 17min",
+        "clasificacion":"R",
+        "lanzamiento":"1991",
+        "descripcion":"Algunos años antes, un viajero del tiempo le reveló a la madre de John que su hijo sería el salvador de la humanidad. Cuando un nuevo androide mejorado llega del futuro para asesinar a John, un viejo modelo será enviado para protegerle.",
+        "img":"images/uploads/mv9.jpg"
+
+    },
+    {
+        "titulo":"Spider-Man 3",
+        "director":"Sam Raimi",
+        "actores":["Tobey Maguire", "Kirsten Dunst", "James Franco", "Thomas Haden Church","Topher Grace","Bryce Dallas Howard"],
+        "anho":"2007",
+        "calificacion":"5.4",  
+        "duracion":"2h 19min",
+        "clasificacion":"PG-13",
+        "lanzamiento":"16/04/2007",
+        "descripcion":"Peter Parker sufre una terrible transformación cuando su traje se vuelve negro y libera su personalidad oscura y vengativa. Afrontará el mayor desafío de su vida al tener que redescubrir la humildad y compasión que lo hacen ser quien es: un héroe.",
+        "img":"images/uploads/mv10.jpg"
+
+    },
+    {
+        "titulo":"Spider-Man 2",
+        "director":"Sam Raimi",
+        "actores":["Tobey Maguire", "Kirsten Dunst", "James Franco", "Alfred Molina","Rosemary Harris","Donna Murphy"],
+        "anho":"2004",
+        "calificacion":"6.2",  
+        "duracion":"2h 7min",
+        "clasificacion":"PG-13",
+        "lanzamiento":"2004",
+        "descripcion":"Como si Peter Parker no tuviera suficiente con sus propios problemas, estudios y su amor por Mary Jane, ahora tiene que salvar a la ciudad de un nuevo villano, el Doctor Octopus.",
+        "img":"images/uploads/mv11.jpg"
+
+    }
+]
